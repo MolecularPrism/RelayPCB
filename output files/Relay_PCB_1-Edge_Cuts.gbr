@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
+%TF.CreationDate,2024-01-08T12:14:10-08:00*%
+%TF.ProjectId,Relay_PCB_1,52656c61-795f-4504-9342-5f312e6b6963,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.9) date 2024-01-08 12:14:10*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X116840000Y-55880000D02*
+X175260000Y-55880000D01*
+X175260000Y-112260000D01*
+X116840000Y-112260000D01*
+X116840000Y-55880000D01*
+M02*

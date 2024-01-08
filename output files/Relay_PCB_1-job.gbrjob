@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "7.0.9"
     },
-    "CreationDate": "2023-12-26T14:09:43-08:00"
+    "CreationDate": "2024-01-08T12:14:10-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "Relay_PCB_final",
-      "GUID": "52656c61-795f-4504-9342-5f66696e616c",
+      "Name": "Relay_PCB_1",
+      "GUID": "52656c61-795f-4504-9342-5f312e6b6963",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 66.14,
-      "Y": 55.98
+      "X": 58.52,
+      "Y": 56.48
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.0,
       "TrackToRegion": 0.5,
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "Relay_PCB_final-F_Cu.gbr",
+      "Path": "Relay_PCB_1-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Relay_PCB_final-B_Cu.gbr",
+      "Path": "Relay_PCB_1-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Relay_PCB_final-F_Paste.gbr",
+      "Path": "Relay_PCB_1-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Relay_PCB_final-B_Paste.gbr",
+      "Path": "Relay_PCB_1-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Relay_PCB_final-F_Silkscreen.gbr",
+      "Path": "Relay_PCB_1-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Relay_PCB_final-B_Silkscreen.gbr",
+      "Path": "Relay_PCB_1-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Relay_PCB_final-F_Mask.gbr",
+      "Path": "Relay_PCB_1-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Relay_PCB_final-B_Mask.gbr",
+      "Path": "Relay_PCB_1-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Relay_PCB_final-Edge_Cuts.gbr",
+      "Path": "Relay_PCB_1-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
